@@ -4,9 +4,14 @@
 
 ![](https://komarev.com/ghpvc/?username=dhamodaran-pandiyan&color=green)
 
-![](https://github-profile-trophy.vercel.app/?username=dhamodaran-pandiyan&theme=oldie)
+### 🏆 Github Stats
+
+<img  src="https://github-readme-stats.vercel.app/api?username=dhamodaran-pandiyan&show_icons=true&theme=buefy" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=dhamodaran-pandiyan&theme=buefy" width="48%" >
 
 
 
-### Some Stats about me: 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dhamodaran-pandiyan&show_icons=true&locale=en" alt="dhamodaran-pandiyan" /></p>
+
+<br/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhamodaran-pandiyan&theme=buefy&layout=compact" width="48%" >
+<br/>
