@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Wanna connect with me :question::point_right: [Click Here](https://dhamodaran-pandiyan.github.io/) 📫
-
 ![](https://komarev.com/ghpvc/?username=dhamodaran-pandiyan&color=green)
 
 ### 🏆 Github Stats
