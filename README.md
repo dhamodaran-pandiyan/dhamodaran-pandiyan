@@ -1,11 +1,22 @@
 ### Hi there 👋
+I'm a passionate Software Developer with over 5 years of experience in building efficient, scalable, and cloud-native solutions. I hold a Bachelor's Degree in Information Technology and have honed my skills across multiple domains, including:
+
+🐍 Programming Languages: Python, C++
+☁️ Cloud Computing & DevOps: Kubernetes, Docker, Microservices, CI/CD
+⚙️ Architectures: Modular and scalable cloud-native application design
+💻 Software Development: Backend development, system integration, and deployment
+
+I enjoy solving complex problems, designing robust systems, and contributing to open-source projects. My goal is to create impactful solutions that leverage cutting-edge technologies.
 ---
 ![](https://komarev.com/ghpvc/?username=dhamodaran-pandiyan&color=green)
 
 ### 🏆 Github Stats
 
-<img  src="https://github-readme-stats.vercel.app/api?username=dhamodaran-pandiyan&show_icons=true&theme=buefy" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=dhamodaran-pandiyan&theme=buefy" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=dhamodaran-pandiyan&show_icons=true&theme=nightowl" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=dhamodaran-pandiyan&theme=nightowl" width="48%" >
+
+
+---
 
 <h2 align="center"><strong>🏆 Contribution Graph</strong></h2>
 <br />
