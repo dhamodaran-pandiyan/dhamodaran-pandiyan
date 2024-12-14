@@ -1,12 +1,13 @@
-### Hi there 👋
-I'm a passionate Software Developer with over 5 years of experience in building efficient, scalable, and cloud-native solutions. I hold a Bachelor's Degree in Information Technology and have honed my skills across multiple domains, including:
+### 👨‍💻 About Me 
+Hi there! 👋 I'm a passionate **Software Developer** with over **5 years of experience** in building efficient, scalable, and cloud-native solutions. I hold a **Bachelor's Degree in Information Technology** and have honed my skills across multiple domains, including:  
 
-🐍 Programming Languages: Python, C++
-☁️ Cloud Computing & DevOps: Kubernetes, Docker, Microservices, CI/CD
-⚙️ Architectures: Modular and scalable cloud-native application design
-💻 Software Development: Backend development, system integration, and deployment
+- 🐍 **Programming Languages:** Python, C++  
+- ☁️ **Cloud Computing & DevOps:** Kubernetes, Docker, Microservices, CI/CD  
+- ⚙️ **Architectures:** Modular and scalable cloud-native application design  
+- 💻 **Software Development:** Full-stack development, system integration, and deployment  
 
-I enjoy solving complex problems, designing robust systems, and contributing to open-source projects. My goal is to create impactful solutions that leverage cutting-edge technologies.
+I enjoy solving complex problems, designing robust systems, and contributing to open-source projects. My goal is to create impactful solutions that leverage cutting-edge technologies.  
+
 ---
 ![](https://komarev.com/ghpvc/?username=dhamodaran-pandiyan&color=green)
 
