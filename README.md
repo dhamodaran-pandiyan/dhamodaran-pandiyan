@@ -11,8 +11,6 @@ I hold a **Bachelor's Degree in Information Technology** and have honed my skill
 
 I enjoy solving complex problems, designing robust systems, and contributing to open-source projects. My goal is to create impactful solutions that leverage cutting-edge technologies.  
 
----
-
 <!-- Profile views counter -->
 ![](https://komarev.com/ghpvc/?username=dhamodaran-pandiyan&color=green)
 
@@ -26,14 +24,11 @@ I enjoy solving complex problems, designing robust systems, and contributing to 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhamodaran-pandiyan&theme=nightowl" width="48%" alt="GitHub Streak" />
 </div>
 
-## 📊 Top Languages
-
 <!-- GitHub Top Languages -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhamodaran-pandiyan&theme=nightowl&layout=compact" width="50%" alt="Top Languages" />
 </div>
 
----
 
 ## 🏆 Contribution Graph
 
@@ -44,10 +39,10 @@ I enjoy solving complex problems, designing robust systems, and contributing to 
   </a>
 </div>
 
----
+## 🚀 Contact Me
 
-
-## 🌊 Custom Illustration
+- 💼 **LinkedIn:** [Dhamodaran Pandiyan](https://www.linkedin.com/in/dhamodaranpandiyan/)  
+- 🖥️ **Portfolio:** [https://github.com/dhamodaran-pandiyan](https://github.com/dhamodaran-pandiyan)
 
 <!-- Custom SVG Section -->
 <div align="center">
@@ -56,8 +51,5 @@ I enjoy solving complex problems, designing robust systems, and contributing to 
 
 ---
 
-## 🚀 Contact Me
 
-- 💼 **LinkedIn:** [Dhamodaran Pandiyan](https://www.linkedin.com/in/dhamodaranpandiyan/)  
-- 🖥️ **Portfolio:** [https://github.com/dhamodaran-pandiyan](https://github.com/dhamodaran-pandiyan)
 
