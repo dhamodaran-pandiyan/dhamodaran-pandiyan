@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 # 👨‍💻 About Me 
-Hi there! 👋 I'm a passionate **Software Developer** with over **5 years of experience** in building efficient, scalable, and cloud-native solutions.  
+Hi there! 👋 I'm a passionate **Software Developer** with over **7 years of experience** in building efficient, scalable, and cloud-native solutions.  
 
 I hold a **Bachelor's Degree in Information Technology** and have honed my skills across multiple domains, including:  
 - 🐍 **Programming Languages:** Python, C++  
