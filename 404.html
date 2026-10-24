@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>404 &middot; Dhamodaran Pandiyan</title>
+<meta name="robots" content="noindex" />
+<meta name="theme-color" content="#0c0b0a" />
+<script>
+(function () {
+  var r = document.documentElement;
+  r.classList.add("js");
+  var t = null;
+  try { t = localStorage.getItem("dp-theme"); } catch (e) {}
+  if (t !== "light" && t !== "dark") { t = "dark"; }
+  r.setAttribute("data-theme", t);
+})();
+</script>
+<link rel="icon" href="./assets/favicon.svg" type="image/svg+xml" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600&family=Inter:wght@400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="./assets/css/style.css?v=20260819l" />
+</head>
+<body>
+<div class="grain" aria-hidden="true"></div>
+
+<div class="hud">
+  <a class="hud__mark" href="./">
+    <span class="hud__prompt" aria-hidden="true">&gt;</span>
+    <span class="hud__name">Dhamodaran Pandiyan</span><span class="hud__caret" aria-hidden="true"></span>
+  </a>
+</div>
+
+<main class="hero">
+  <div class="col">
+    <p class="label label--accent">ERROR 404 &middot; NO ROUTE</p>
+    <h1 class="hero__title">Page not found.</h1>
+    <div class="hero__foot">
+      <p class="hero__lede">
+        This page moved, or it never existed. Everything else is one link away.
+      </p>
+      <p class="hero__sig">
+        <span class="label">TRY</span>
+        <a class="back" href="./">&larr; back to the homepage</a><span class="caret" aria-hidden="true"></span>
+      </p>
+    </div>
+  </div>
+</main>
+
+<footer class="footer">
+  <p>&copy; <span id="year">2026</span> DHAMODARAN PANDIYAN &middot; BENGALURU</p>
+  <p>NO FRAMEWORK &middot; NO BUILD STEP &middot; NO TRACKERS USED IN THIS SITE</p>
+</footer>
+
+<script src="./assets/js/main.js?v=20260819l"></script>
+</body>
+</html>

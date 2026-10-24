@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0c0b0a"/>
+  <text x="90" y="140" font-family="JetBrains Mono, Consolas, monospace" font-size="24" letter-spacing="6" fill="#ff5233">SDE3 &#8212; BACKEND &amp; DISTRIBUTED SYSTEMS</text>
+  <text x="86" y="290" font-family="Archivo, Segoe UI, sans-serif" font-size="104" font-weight="600" letter-spacing="-4" fill="#ece7df">Systems that hold</text>
+  <text x="86" y="400" font-family="Archivo, Segoe UI, sans-serif" font-size="104" font-weight="600" letter-spacing="-4" fill="#ece7df">under load.</text>
+  <text x="92" y="492" font-family="JetBrains Mono, Consolas, monospace" font-size="26" fill="#8f887e">Dhamodaran Pandiyan &#183; Bengaluru</text>
+  <text x="92" y="536" font-family="JetBrains Mono, Consolas, monospace" font-size="26" fill="#5a544c">Python &#183; C++ &#183; Go &#183; Kubernetes &#183; 7+ yrs</text>
+  <rect x="90" y="574" width="170" height="4" fill="#ff5233"/>
+</svg>
